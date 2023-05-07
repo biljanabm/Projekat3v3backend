@@ -6,3 +6,4 @@ initApi();
 dbConnection.connect();         
 
 // ovo sve pisemo za mySQL
+// proba gita
